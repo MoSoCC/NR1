@@ -6,6 +6,8 @@ Farbpalette
 
 Rot
 Grün
+Hellgrün
+Dukelgrün
 Blau
 Hellblau
 Dunkelblau
