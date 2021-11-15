@@ -2,8 +2,6 @@
 Farbpalette
 
 
-
-
 Rot
 Grün
 Blau
