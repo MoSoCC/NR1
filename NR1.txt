@@ -9,8 +9,6 @@ Grün
 Hellgrün
 Dukelgrün
 Blau
-Hellblau
-Dunkelblau
 Gelb
 Magenta
 Sind alles tolle Farben.
